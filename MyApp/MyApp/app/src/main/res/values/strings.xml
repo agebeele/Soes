@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="title_activity_inicio">Activity_Inicio</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="SOES">
+        <item>Project Manager: Eduardo Sebastian Piña Chavarria</item>
+        <item>Product Owner: Ociel Josue Tabal Velasco</item>
+        <item>Developers: Brandon Adrian Lopez Garcia</item>
+        <item>Software architect: Eduardo Sebastian Piña Chavarria</item>
+        <item>Especialista en UI/UX: Ociel Josue Tabal Velasco</item>
+        <item>Ingeniero de control de calidad (QA): Brandon Adrian Lopez Garcia</item>
+    </string-array>
+
+    <string-array name="datosGenerales">
+        <item>Nombre: Brandon Adrian Lopez Garcia </item>
+        <item>Correo: brandon_adrian.itic@tesco.edu.mx</item>
+        <item>Telefono: 313 706 5253</item>
+    </string-array>
+
+    <string-array name="datosCalentador">
+        <item>Marca: IUSA</item>
+        <item>Capacidad: 180 Litros</item>
+        <item>Dimensiones: 182 x 49 x 58 cm</item>
+        <item>Estilo: Indoor Installation</item>
+    </string-array>
+    <string-array name="spinner_items">
+        <item>Tubo 1</item>
+        <item>Tubo 2</item>
+        <item>Tubo 3</item>
+        <item>Tubo 4</item>
+    </string-array>
+</resources>
